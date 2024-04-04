@@ -13,7 +13,9 @@ public class DeclarationOperateur {
 		System.out.println("testOu : " + testOu);
 		
 		a=a+1;
+		System.out.println("a : " + a);
 		a++;
+		System.out.println("a : " + a);
 		a+=1;
 		System.out.println("a : " + a);
 		
