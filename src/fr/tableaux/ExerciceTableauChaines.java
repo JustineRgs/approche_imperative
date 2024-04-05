@@ -19,6 +19,7 @@ public class ExerciceTableauChaines {
         for (String ville : villes) {
             System.out.println(ville);
         }
+       
 	}
 	
 }
